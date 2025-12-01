@@ -1,13 +1,13 @@
 # PlantClassiNet
 This repository contains the implementation of PlantClassiNet (A Dual-Modal Fine-Tuning Framework for CNN-Based Plant Disease Classification), a unified framework for systematic comparison of convolutional neural networks in plant disease classification. The framework addresses key challenges in deploying CNNs for agricultural applications, including data scarcity, computational costs, and architectural heterogeneity.
 
-**Key Features**
+**Key Features:**
 1）Comprehensive Architecture Comparison‌ Systematically evaluates six state-of-the-art CNN architectures;
 2）Multi-Dataset Validation‌ Tested across three public plant disease datasets;
 3）Transfer Learning Optimization Balances feature extraction and fine-tuning to mitigate domain shift and overfitting;
 4）Unified Evaluation Framework Standardized metrics and benchmarking protocols.
 
-**Supported Architectures**
+**Supported Architectures:**
 AlexNet
 ResNet50
 InceptionV3
@@ -15,7 +15,7 @@ MobileNetV3Small
 DenseNet121
 EfficientNetB0
 
-**Datasets**
+**Datasets:**
 PlantVillage Comprehensive collection of crop disease images
 PlantLeaves‌ Diverse leaf image dataset with disease annotations
 Eggplant‌ Specialized dataset focusing on eggplant diseases
