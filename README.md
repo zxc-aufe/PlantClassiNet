@@ -8,15 +8,15 @@ This repository contains the implementation of PlantClassiNet (A Dual-Modal Fine
 4）Unified Evaluation Framework Standardized metrics and benchmarking protocols.
 
 **Supported Architectures:**
-AlexNet
-ResNet50
-InceptionV3
-MobileNetV3Small
-DenseNet121
-EfficientNetB0
+AlexNet;
+ResNet50;
+InceptionV3;
+MobileNetV3Small;
+DenseNet121;
+EfficientNetB0.
 
 **Datasets:**
-PlantVillage Comprehensive collection of crop disease images
-PlantLeaves‌ Diverse leaf image dataset with disease annotations
-Eggplant‌ Specialized dataset focusing on eggplant diseases
+1) PlantVillage: https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
+2) PlantLeaves‌: https://www.kaggle.com/datasets/csafrit2/plant-leaves-for-image-classification
+3) Eggplant‌: https://www.kaggle.com/datasets/kamalmoha/eggplant-disease-recognition-dataset/data
 
